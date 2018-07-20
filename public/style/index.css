@@ -101,7 +101,7 @@ background-color: transparent;
     
 }
 .default_size{
-    animation-name: toDefaultSize;
+    animation-name: toFullSize;
     animation-duration: 0.4s;
     animation-fill-mode: forwards;
 }
@@ -117,8 +117,8 @@ background-color: transparent;
         width: 100%;}
 }
 @keyframes toDefaultSize{
-
-    to{ height: 70%; width: 310px;}
+ to{    height: 100%;
+        width: 100%;}
 }
 
 .classic_theme .chat_popup {
@@ -191,15 +191,15 @@ background-color: transparent;
 
 
 .watson::before{
-    background-color: #00b0ff;
+    background-color: #01b4b7;
 }
 
 .watson {
     float: left;   
     margin: 5px 45px 5px 20px;
-    background-color: #00b0ff;
+    background-color: #01b4b7;
     color: #fff;      
-    box-shadow: 0 0 6px  #00b0ff;
+    box-shadow: 0 0 6px  #01b4b7;
     align-self: flex-start;
 }
 
