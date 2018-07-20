@@ -31,7 +31,7 @@ const userMessage = (message) => {
 
     }, err => {
         console.log('Error: ', err) // eslint-disable-line no-console
-        displayMessage("Um error ocorreu! tente novamente por favor.", 'watson');
+        displayMessage("Um error ocorreu! tente novamente por favor.", 'Gean');
     })
 
 }

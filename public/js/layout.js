@@ -73,10 +73,10 @@ const changeLayout = () => {
         let classic_size = (configurations['layout']['classic']['chat_popup_size'] != 'default') ? 'full_size' : 'default_size';
 
         chat_div.innerHTML = '<div class="chat_popup ' + classic_size + '" id="chat_popup">' +
-            '<div class="chat_header" id="chat_header">Chat with Watson</div>' +
+            '<div class="chat_header" id="chat_header">Suporte do Sistema</div>' +
             '<div class="chat_body" id="chat_body"></div>' +
             '<div class="chat_footer" id="chat_footer">' +
-            '<input type="text" id="chat_input" class="chat_input" placeholder="Type a message.." /></div></div>';
+            '<input type="text" id="chat_input" class="chat_input" placeholder="Digite a Mensagem.." /></div></div>';
 
         chat_div.setAttribute('class', 'classic')
 
