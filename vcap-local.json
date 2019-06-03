@@ -5,8 +5,8 @@
             "name": "Conversation",
             "credentials": {
                 "url": "https://gateway.watsonplatform.net/assistant/api",
-                "username": "8696573b-2836-413c-a6e0-82aa27b4e779",
-                "password": "iNKvDGCqkJ52",
+                "username": "f1099c9c-fcb5-4c86-b512-ca924ec6841b",
+                "password": "FmscJE2v0wEM",
                 "workspace_id": "cee32b01-5e9b-419e-b227-04138009635a"
             }
         }]
