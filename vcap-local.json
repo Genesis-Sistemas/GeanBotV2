@@ -4,7 +4,7 @@
             "label": "conversation",
             "name": "Conversation",
             "credentials": {
-                "url": "https://gateway.watsonplatform.net/assistant/api",
+                "url": "https://gateway.watsonplatform.net/assistant/api/v2/assistants/9e861fc2-bdcc-4430-8068-4ad1d9493d66/sessions",
                 "username": "f1099c9c-fcb5-4c86-b512-ca924ec6841b",
                 "password": "FmscJE2v0wEM",
                 "workspace_id": "cee32b01-5e9b-419e-b227-04138009635a"
